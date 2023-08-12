@@ -1,3 +1,4 @@
+#! /bin/bash
 
 '
 Mandar algo a al consola
